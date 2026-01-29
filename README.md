@@ -21,7 +21,7 @@ BitHive is a modern community discussion platform built with "Laravel". It provi
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/BitHive.git](https://github.com/DarkkCode/BitHive.git)
+    git clone [https://github.com/DarkkCode/BitHive.git](https://github.com/DarkkCode/BitHive.git)
     cd BitHive
     ```
 
